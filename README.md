@@ -68,3 +68,5 @@ This python project uses the following concepts:
 7.Basic arithmetic operations is applied to find the sum of the numbers.
 8.Program exit is done using break control statement.
 
+<img width="986" height="521" alt="Screenshot 2026-05-25 135258" src="https://github.com/user-attachments/assets/c743514c-e9b9-4ca9-9c26-8cba9dcb86e0" />
+
