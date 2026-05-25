@@ -69,4 +69,8 @@ This python project uses the following concepts:
 8.Program exit is done using break control statement.
 
 <img width="986" height="521" alt="Screenshot 2026-05-25 135258" src="https://github.com/user-attachments/assets/c743514c-e9b9-4ca9-9c26-8cba9dcb86e0" />
+<img width="999" height="472" alt="Screenshot 2026-05-25 135323" src="https://github.com/user-attachments/assets/c899b3c3-69d4-4633-a02d-0d5920195c40" />
+<img width="568" height="257" alt="Screenshot 2026-05-25 135334" src="https://github.com/user-attachments/assets/8f114027-b560-42d0-96b8-a5c9dbae51b4" />
+
+
 
